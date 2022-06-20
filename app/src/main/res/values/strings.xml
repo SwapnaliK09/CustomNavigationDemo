@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">cutsomNavigation</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello List fragment</string>
+    <string name="hello_blank_fragment1">Hello Home fragment</string>
+    <string name="hello_blank_fragment3">Hello Call fragment</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_call">Call</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_list">List</string>
+    <string name="hello_blank_fragment2">Hello Setting fragment</string>
+</resources>
